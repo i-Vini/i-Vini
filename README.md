@@ -1,4 +1,4 @@
-Oi! Eu sou @i-Vini
+Olá, eu sou o Vini :)
 
 <div align="center">
   <a href="https://github.com/i-Vini">
